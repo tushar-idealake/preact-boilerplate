@@ -5,7 +5,7 @@ export default () => {
 	return (
 		<div class={style.home}>
 			<h1>Home</h1>
-			<p>This is the Home component.</p>
+			<p>This is the Home component Created by Tushar K in Preact 😁.</p>
 		</div>
 	);
 };
